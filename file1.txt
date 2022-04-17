@@ -1,2 +1,3 @@
 ciao
 new line from dev
+aggiunta riga dirrettamente da editor git hub  loggato come serserbasti
